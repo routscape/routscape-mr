@@ -7,6 +7,16 @@
       "dependencies": {},
       "hash": "ce8256402342c3dad4348554570ef7937490dad1"
     },
+    "com.mapbox.unity-sdk": {
+      "version": "https://github.com/mapbox/mapbox-unity-sdk.git#sdk3",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.render-pipelines.universal": "10.10.1",
+        "com.unity.nuget.newtonsoft-json": "3.2.1"
+      },
+      "hash": "37dd718adf65ef50c13a5e15542d440dd528b030"
+    },
     "com.meta.xr.mrutilitykit": {
       "version": "71.0.0",
       "depth": 1,
@@ -227,7 +237,7 @@
     },
     "com.unity.nuget.newtonsoft-json": {
       "version": "3.2.1",
-      "depth": 2,
+      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"

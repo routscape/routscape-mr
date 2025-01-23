@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "com.gilzoide.flex-ui": "https://github.com/gilzoide/unity-flex-ui.git#1.2.0",
+    "com.mapbox.unity-sdk": "https://github.com/mapbox/mapbox-unity-sdk.git#sdk3",
     "com.meta.xr.sdk.all": "71.0.0",
     "com.nobi.roundedcorners": "https://github.com/kirevdokimov/Unity-UI-Rounded-Corners.git",
     "com.unity.collab-proxy": "2.6.0",
